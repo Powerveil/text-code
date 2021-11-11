@@ -1,2 +1,2 @@
 # text-code
-This is a Code warehouse.
+This is a test repository for Powerveil's video.
